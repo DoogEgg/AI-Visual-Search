@@ -16,6 +16,7 @@ if __name__ == "__main__":
         str(app_path),
         "--server.port=8502",
         "--server.address=127.0.0.1",
+        "--server.fileWatcherType=none",
         "--browser.gatherUsageStats=false",
     ]
     raise SystemExit(streamlit_cli.main())
