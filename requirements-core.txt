@@ -1,0 +1,5 @@
+# Lightweight application and unit-test dependencies (no model download).
+numpy==2.1.3
+pandas==2.2.3
+Pillow==11.1.0
+streamlit==1.45.1

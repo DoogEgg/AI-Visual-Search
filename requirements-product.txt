@@ -1,0 +1,2 @@
+# Backward-compatible installation entry point.
+-r requirements.txt
